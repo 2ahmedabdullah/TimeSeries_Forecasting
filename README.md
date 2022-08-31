@@ -3,13 +3,13 @@
 ## Overview
 
 <p align="center">
-   <img src="arima.png">
+   <img src="img/arima.png">
 </p>
 
 ## 
 
 <p align="center">
-   <img src="ts1.png">
+   <img src="img/ts1.png">
 </p>
 
 ## 
